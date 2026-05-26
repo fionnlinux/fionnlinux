@@ -1,4 +1,4 @@
-# Hi, I'm fionnlinux
+# Hi, I'm Ciarán from fionnlinux.com
 
 Linux practitioner building toward a SOC analyst role, with a longer term direction in Linux security engineering and Red Hat administration.
 
