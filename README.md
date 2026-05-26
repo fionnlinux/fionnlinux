@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm fionnlinux
 
-<!--
-**fionnlinux/fionnlinux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Linux practitioner building toward a SOC analyst role, with a longer term direction in Linux security engineering and Red Hat administration.
 
-Here are some ideas to get you started:
+Background in electrical installation and manufacturing. Now working through CompTIA and RHCSA while building a security homelab and documenting everything in public.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+
+| Status | Certification |
+|--------|--------------|
+| ✅ Complete | CompTIA ITF+ |
+| ✅ Complete | CompTIA A+ |
+| 🔄 In Progress | CompTIA Network+ (N10-009) |
+| 📋 Planned | CompTIA Security+ |
+| 📋 Planned | RHCSA EX200 |
+
+## What I Run
+
+- **Daily driver:** Fedora KDE
+- **Servers:** Rocky Linux
+- **SOC training:** LetsDefend
+- **Homelab:** Wazuh, OPNsense, WireGuard, Podman
+
+## What I'm Building
+
+- 🌐 [fionnlinux.com](https://fionnlinux.com) — public learning journal
+- 🔧 [dotfiles](https://github.com/fionnlinux/dotfiles) — reproducible Fedora and Rocky Linux configs
+- 🐍 [python-projects](https://github.com/fionnlinux/python-projects) — scripting and automation
+
+## Find Me
+
+- 🌐 [fionnlinux.com](https://fionnlinux.com)
+- 🪐 [Codeberg](https://codeberg.org/fionnlinux)
+- 📧 [contact@mail.fionnlinux.com](mailto:contact@mail.fionnlinux.com)
