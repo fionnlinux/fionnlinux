@@ -1,8 +1,8 @@
 # Hi, I'm Ciarán from fionnlinux.com
 
-Linux practitioner building toward a SOC analyst role, with a longer term direction in Linux security engineering and Red Hat administration.
+Linux practitioner building toward a cloud engineering role, with a security-first mindset and a longer term direction in cloud security and Red Hat administration.
 
-Background in electrical installation and manufacturing. Now working through CompTIA and RHCSA while building a security homelab and documenting everything in public.
+Background in electrical installation and manufacturing. Now working through CompTIA certifications and RHCSA while building a cloud-focused homelab and documenting everything in public.
 
 ## Certifications
 
@@ -12,14 +12,16 @@ Background in electrical installation and manufacturing. Now working through Com
 | ✅ Complete | CompTIA A+ |
 | 🔄 In Progress | CompTIA Network+ (N10-009) |
 | 📋 Planned | CompTIA Security+ |
+| 📋 Planned | AZ-900 — Azure Fundamentals |
 | 📋 Planned | RHCSA EX200 |
+| 📋 Planned | AZ-104 — Azure Administrator |
 
 ## What I Run
 
 - **Daily driver:** Fedora KDE
 - **Servers:** Rocky Linux
-- **SOC training:** LetsDefend
-- **Homelab:** Wazuh, OPNsense, WireGuard, Podman
+- **Homelab:** OPNsense, WireGuard, Podman
+- **Learning:** Terraform, Ansible, Kubernetes
 
 ## What I'm Building
 
