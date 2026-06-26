@@ -29,6 +29,7 @@ Background in electrical installation and manufacturing. Now working through Com
 - 🔧 [dotfiles](https://github.com/fionnlinux/dotfiles) — reproducible Fedora and AlmaLinux configs
 - 🐍 [python-projects](https://github.com/fionnlinux/python-projects) — scripting and automation
 - 🔨 [bash-toolkit](https://github.com/fionnlinux/bash-toolkit) — bash scripts and utilities
+- 🦅 [between-the-rivers](https://github.com/fionnlinux/between-the-rivers) — wildlife records explorer querying the NBN Atlas API, built in stages from bash to cloud
 
 ## Homelab (In Progress):
 
